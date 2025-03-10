@@ -13,9 +13,9 @@ You are tasked with building a Bowling Score Calculator to calculate the score o
 - A strike occurs when all 10 pins are knocked down on the first roll of a frame.
 - A spare occurs when the player knocks down all 10 pins in two rolls of the frame.
 - The score for each frame is calculated by adding:
-- The number of pins knocked down in that frame.
-- Bonus for Spares: The number of pins knocked down in the next roll after a spare.
-- Bonus for Strikes: The total number of pins knocked down in the next two rolls after a strike.
+  - The number of pins knocked down in that frame.
+  - **Bonus for Spares:** The number of pins knocked down in the next roll after a spare.
+  - **Bonus for Strikes:** The total number of pins knocked down in the next two rolls after a strike.
 
 #### Tenth Frame:
 

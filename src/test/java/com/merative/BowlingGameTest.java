@@ -139,4 +139,40 @@ public class BowlingGameTest {
     //             .bowl(3);
     //     assertEquals(104, game.score());
     // }
+
+    // @Test
+    // public void testAlmostPerfect() {
+    //     BowlingGame game = new BowlingGame()
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(4)
+    //             .bowl(4);
+    //     assertEquals(282, game.score());
+    // }
+
+    // @Test
+    // public void testPerfectGame() {
+    //     BowlingGame game = new BowlingGame()
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10)
+    //             .bowl(10);
+    //     assertEquals(300, game.score());
+    // }
 }
